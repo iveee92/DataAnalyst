@@ -47,4 +47,4 @@
 Исследование рынка общественного питания на основе открытых данных, подготовка презентации для инвесторов
 
 ## Используемые библиотеки
-pandas, matplotlib, plotly, folium, on, seaborn
+pandas, matplotlib, plotly, folium, json, seaborn
